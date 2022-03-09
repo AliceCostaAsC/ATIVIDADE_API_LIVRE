@@ -1,0 +1,50 @@
+    button {
+        margin-left: 290%;
+        margin-top: -20%;
+    }
+    
+    h1 {
+        text-align: center;
+        color: black;
+        background-color: white;
+    }
+    
+    #tudo {
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+    }
+    
+    #nome {
+        margin-left: 180%;
+        margin-top: 10%;
+    }
+    
+    body {
+        background-color: green;
+    }
+    
+    #especie {
+        color: white;
+        font-size: 20px;
+    }
+    
+    #sexo {
+        color: white;
+        font-size: 20px;
+    }
+    
+    #classificacoes {
+        color: white;
+        font-size: 20px;
+    }
+    
+    #idade {
+        color: white;
+        font-size: 20px;
+    }
+    
+    #frase {
+        color: white;
+        font-size: 20px;
+    }
