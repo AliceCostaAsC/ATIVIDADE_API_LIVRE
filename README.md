@@ -4,7 +4,7 @@
 #Como Funciona
 
 Projeto criado através do Google sheets https://www.google.com/intl/pt-BR/sheets/about/, e para converter para API foi utilizado o Sheety https://sheety.co/
-Você insere o nome de um personagem da animação do Pica-Pau e a API traz suas principais características.
+Você insere o nome de um personagem da animação do Pica-Pau e a API traz suas principais características, ao todo são 6 personagens do seriado.
 
 # Referência
 
